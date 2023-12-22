@@ -1,0 +1,14 @@
+
+/* styule for Navbar and hero */
+.navCustom {
+    background-image: url('..//images/NavBar.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: blue;
+}
+
+.heroCustom {
+    background-image: url('../images/NavBar.png');
+}
+
+h3 {}
