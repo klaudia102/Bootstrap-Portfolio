@@ -43,7 +43,6 @@ body {
 
 
 /* style for hero section */
-
 .heroCustom {
   background-image: url('../images/NavBar.png');
   height: 70vh;
@@ -54,6 +53,7 @@ body {
 h1,
 h2 {
   color: bisque !important;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
 img {
@@ -63,7 +63,11 @@ img {
 
 
 /* section name styling */
-h3 {}
+h3 {
+  padding: 10px;
+  border-bottom: solid 5px black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 /* end of section name styling */
 
 
