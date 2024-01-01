@@ -64,6 +64,8 @@ img {
 
 /* section name styling */
 h3 {
+  display:flex;
+  justify-content: center;
   padding: 10px;
   border-bottom: solid 5px black;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -76,6 +78,9 @@ h3 {
   margin-top: 20px;
 }
 
+.customCard{
+
+}
 .card {
   margin: 0 auto;
 }
